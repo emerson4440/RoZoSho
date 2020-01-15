@@ -13,14 +13,6 @@ namespace Level_5
 
         [SerializeField] private EndObjectivePhaseTwo m_EndPhase;
 
-        public bool m_Charged;
-        // Start is called before the first frame update
-        void Start()
-        {
-
-        }
-
-        // Update is called once per frame
         void Update()
         {
 
